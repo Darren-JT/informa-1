@@ -445,3 +445,4 @@ buck-out/
 
 # Mobile app caches
 apps/mobile/caches/
+zip/
